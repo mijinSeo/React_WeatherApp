@@ -12,6 +12,7 @@
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -22,8 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage":"https://mijinseo.github.io/React_WeatherApp/",
- 
+  "homepage": "https://mijinseo.github.io/React_WeatherApp/",
   "eslintConfig": {
     "extends": [
       "react-app",
